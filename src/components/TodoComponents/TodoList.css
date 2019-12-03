@@ -1,0 +1,11 @@
+.done-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .clear-btn {
+    margin-top: 16px;
+  }
